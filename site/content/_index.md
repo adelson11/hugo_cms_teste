@@ -1,5 +1,5 @@
 ---
-title: Go horse site
+title: Go Horse Process site
 subtitle: Nunca funciona
 image: /img/horse21.png
 blurb:
