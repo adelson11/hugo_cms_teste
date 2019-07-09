@@ -1,7 +1,7 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/icons-twitter.svg
+title: Go horse site
+subtitle: Nunca funciona
+image: /img/horse21.png
 blurb:
   heading: gadfgadfasdfasdf
   text: >-
