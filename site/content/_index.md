@@ -1,7 +1,7 @@
 ---
 title: Go Horse Process site
 subtitle: Nunca funciona
-image: /img/horse21.png
+image: /img/dtp.jpg
 blurb:
   heading: gadfgadfasdfasdf
   text: sdfasdfasdfasdfasdfasdf
